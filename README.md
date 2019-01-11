@@ -35,6 +35,6 @@ It should work in the similar manner as popular shells like bash, zsh etc. To ru
 
 ### Building and Running
 
-    cd mysh_shell
+    cd linux-shell
     make
     ./mysh
